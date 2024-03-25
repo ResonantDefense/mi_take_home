@@ -1,0 +1,7 @@
+# Ignore everything that starts with a dot
+.*
+
+# But keep the .gitignore file
+!.gitignore
+
+__pycache__/abstract.cpython-312.pyc
